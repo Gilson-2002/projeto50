@@ -111,7 +111,7 @@ body{
       display: none;
     }
     #pepe{
-      border: 1px solid red;
+/*       border: 1px solid red; */
       width: 100vw;
       margin-top: -4vh;
       display: flex;
