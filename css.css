@@ -129,7 +129,7 @@ body{
     .cabecalho{
       margin-top: 4vh;
       /* margin-bottom: 200px; */
-      border: 1px solid yellow;
+/*       border: 1px solid yellow; */
     }
 
 }
@@ -149,11 +149,11 @@ body{
       /* width: 80%; */
     }
     #pipi{
-      border: 1px solid red;
+/*       border: 1px solid red; */
       width: 100vw;
     }
     .cabecalho{
-      border: 1px solid red;
+/*       border: 1px solid red; */
     }
 }
 
